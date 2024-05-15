@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYUSH RAJ KESHRI</h1>
 <h3 align="center">FULL STACK DEVELOPER | AWS CERTIFIED DEVELOPER ASSOCIATE</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2502&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2502" /> </p>
 <img align=“right” alt=“coding guy” width=“400” src=“https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2502&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2502" /> </p>
 - 📫 How to reach me **keshriayush25022000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
